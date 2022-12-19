@@ -8,8 +8,8 @@ namespace Sanatoriy
 {
     public class Guest:IComparable
     {
-        private string role;
-        private string medpolic;
+        private string role; //роль человека в система
+        private string medpolic; //медицинский полис человека
         public string Role { get { return role; }  set { role = value; } }
         public string Medpolic { get { return medpolic; } set { medpolic = value; } }
 
