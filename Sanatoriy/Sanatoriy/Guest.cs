@@ -10,5 +10,7 @@ namespace Sanatoriy
     {
         private string role;
         private string medpolic;
+        public string Role { get { return role; }  set { role = value; } }
+        public string Medpolic { get { return medpolic; } set { medpolic = value; } }
     }
 }
