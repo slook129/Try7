@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sanatoriy
 {
-    class User
+    class User : IComparable
     {
         string email;
         public string Email { get { return email; } set { email = value; } }
@@ -16,5 +16,10 @@ namespace Sanatoriy
         public string Password { get { return password; } set { password = value; } }
         string fullName;
         public string FullName { get { return fullName; } set { fullName = value; } }
+        public int CompareTo(object? obj)
+        {
+            User comparing = obj as User;
+            return comparing.Password.CompareTo(this.Password);
+        }
     }
 }
