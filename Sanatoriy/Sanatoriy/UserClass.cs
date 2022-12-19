@@ -21,5 +21,12 @@ namespace Sanatoriy
             User comparing = obj as User;
             return comparing.Password.CompareTo(this.Password);
         }
+        public User()
+        {
+            email = "";
+            phone = "";
+            password = "";
+            fullName = "";
+        }
     }
 }
