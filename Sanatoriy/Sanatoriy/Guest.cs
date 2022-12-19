@@ -8,6 +8,7 @@ namespace Sanatoriy
 {
     public class Guest
     {
-
+        private string role;
+        private string medpolic;
     }
 }
