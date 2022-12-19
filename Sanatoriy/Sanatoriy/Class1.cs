@@ -12,6 +12,13 @@ namespace Sanatoriy
         public string Price { get { return price; } set { peice = value; } }
         public string Desription { get { return description; } set { description = value; } }
 
+        public Service()
+        {
+            schedule = "";
+            price = "";
+            desription = "";
+        }
+        
 
     }
 }
