@@ -1,0 +1,15 @@
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.csproj.AssemblyReference.cache
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.AssemblyInfoInputs.cache
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.AssemblyInfo.cs
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.csproj.CoreCompileInputs.cache
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\bin\Debug\net6.0\Sanatoriy.exe
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\bin\Debug\net6.0\Sanatoriy.deps.json
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\bin\Debug\net6.0\Sanatoriy.runtimeconfig.json
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\bin\Debug\net6.0\Sanatoriy.dll
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\bin\Debug\net6.0\Sanatoriy.pdb
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.dll
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\refint\Sanatoriy.dll
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.pdb
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\Sanatoriy.genruntimeconfig.cache
+C:\MyProject\Try7\Sanatoriy\Sanatoriy\obj\Debug\net6.0\ref\Sanatoriy.dll
